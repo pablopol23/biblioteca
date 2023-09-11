@@ -4,7 +4,7 @@ Este proyecto se basa en la creacion de una API web para la administracion de li
 <p>Libro (ID, Titulo, Autor, ISBN, Editorial, Año de publicacion)</p>
 <p>Autor (ID, Autor, Nacionalidad)</p>
 <p>Editorial (ID, Editorial, Info de contacto)</p>
-
+<p>Funciones</p>
 <p>AgregarLibro(ID, Titulo, Autor, ISBN, Editorial, Año de publicacion)</p>
 <p>ActualizarDatosLibro(ID, Titulo, Autor, ISBN, Editorial, Año de publicacion)</p>
 <p>EliminarLibro(IDLibro, Motivo)</p>
