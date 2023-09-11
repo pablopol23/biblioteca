@@ -5,3 +5,13 @@ Libro (ID, Titulo, Autor, ISBN, Editorial, Año de publicacion)
 Autor (ID, Autor, Nacionalidad)
 Editorial (ID, Editorial, Info de contacto)
 
+AgregarLibro(ID, Titulo, Autor, ISBN, Editorial, Año de publicacion)
+ActualizarDatosLibro(ID, Titulo, Autor, ISBN, Editorial, Año de publicacion)
+EliminarLibro(IDLibro, Motivo)
+
+
+Motivo {
+
+
+
+}
